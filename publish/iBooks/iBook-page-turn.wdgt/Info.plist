@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Adobe Edge Animation - iBook-page-turn</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adobe.edge.widget.iBook-page-turn</string>
+	<key>CFBundleName</key>
+	<string>iBook-page-turn</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>Height</key>
+	<string>768</string>
+	<key>MainHTML</key>
+	<string>iBook-page-turn.html</string>
+	<key>Width</key>
+	<string>1024</string>
+</dict>
+</plist>
